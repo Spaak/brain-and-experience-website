@@ -1,0 +1,12 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "gokarna-hugo"]
+	path = gokarna-hugo
+	url = git@github.com:gokarna-theme/gokarna-hugo.git
+[submodule "themes/gokarna"]
+	path = themes/gokarna
+	url = git@github.com:gokarna-theme/gokarna-hugo.git
+[submodule "automation/orcid-to-bibtex"]
+	path = automation/orcid-to-bibtex
+	url = https://github.com/MrPike/orcid-to-bibtex.git

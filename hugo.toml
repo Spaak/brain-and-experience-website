@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'gokarna'
+
+[menu]
+  [[menu.main]]
+    name = "News"
+    url = "/news/"
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"

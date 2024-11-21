@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2024 10:48:17 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eelkes hello world</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 18 Nov 2024 10:48:17 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;hallo-titel&#34;&gt;Hallo titel&lt;/h1&gt;&#xA;&lt;p&gt;Welkom hiero dus&lt;/p&gt;&#xA;&lt;h2 id=&#34;subtitle&#34;&gt;Subtitle&lt;/h2&gt;&#xA;&lt;p&gt;Doei&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lijstje&lt;/li&gt;&#xA;&lt;li&gt;lijstje 2&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Blabla</title>
+      <link>http://localhost:1313/posts/blabla/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/blabla/</guid>
+      <description>&lt;p&gt;Hallo&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
