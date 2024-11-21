@@ -11,3 +11,7 @@ theme = 'gokarna'
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
+
+[params]
+  avatarURL = "/images/logo-faceonly.svg"
+  customHeadHTML = '<link rel="stylesheet" href="/css/custom-styles.css">'
