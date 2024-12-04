@@ -1,6 +1,24 @@
+@font-face {
+    font-family: AfacadFlux;
+    src: url("/fonts/AfacadFlux-VariableFont_slnt,wght.ttf");
+  }
+
 .home-about .avatar img {
     border-radius: 0;
     object-fit: none;
 }
 
-static/fonts/AfacadFlux-VariableFont_slnt,wght.ttf
+h1, .nav-title {
+    font-family: AfacadFlux;
+}
+.home-about h1 {
+    font-weight: 300;
+    font-size: 280%;
+    color: var(--accent-color);
+position: relative;
+top: -0.5em;
+}
+
+.nav-title {
+    font-size: 120%;
+}
