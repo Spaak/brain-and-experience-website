@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://brainandexperience.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Brain & Experience Lab'
 theme = 'gokarna'
 
 [menu]
