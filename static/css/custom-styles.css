@@ -3,22 +3,42 @@
     src: url("/fonts/AfacadFlux-VariableFont_slnt,wght.ttf");
   }
 
+  :root {
+    --container-width: 710px;
+  }
+
 .home-about .avatar img {
     border-radius: 0;
     object-fit: none;
 }
 
-h1, .nav-title {
-    font-family: AfacadFlux;
+html {
+    font-family: AfacadFlux, sans-serif;
+    font-size: 20px;
+  }
+h1 {    
+    font-size: 280%;
+    font-weight: 300;
+    color: var(--accent-color);
 }
 .home-about h1 {
     font-weight: 300;
     font-size: 280%;
-    color: var(--accent-color);
-position: relative;
-top: -0.5em;
+    position: relative;
+    top: -0.5em;
 }
 
 .nav-title {
     font-size: 120%;
+}
+
+.post .post-content, .markdown-content {
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: justify;
+    font-weight: 300;
+}
+
+.post .post-content li, .markdown-content li {
+  margin-bottom: 0.3em;
 }

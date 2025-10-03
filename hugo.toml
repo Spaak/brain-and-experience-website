@@ -9,8 +9,8 @@ theme = 'gokarna'
     url = "/news/"
 
   [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "Lab profile"
+    url = "/lab-profile/"
 
 [params]
   avatarURL = "/images/logo-faceonly.svg"

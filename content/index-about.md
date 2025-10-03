@@ -1,8 +1,1 @@
-
-
-This content should be on the homepage now.
-
-# Title something
-
-- list item
-- another list item
+The Brain & Experience (B&E, or BAE, if you're Gen Z) Lab is concerned with how our brains (and bodies) shape our subjective experience, and vice versa. Research is conducted within the Donders Institute of Radboud University, Nijmegen, The Netherlands. Principal investigator of the B&E Lab is Eelke Spaak.
