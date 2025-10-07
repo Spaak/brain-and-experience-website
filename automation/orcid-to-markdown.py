@@ -87,7 +87,11 @@ def assign_doi_ranks(dois):
 def generate_publication_list():
     dois = fetch_dois_from_orcid()
 
-    outtext = ''
+    outtext = '''---
+title: "Publications"
+type: "page"
+---
+'''
     cur_year = None
 
     print('Fetching APA references from doi.org...')
@@ -101,7 +105,7 @@ def generate_publication_list():
             outtext += '\n## ' + str(cur_year) + '\n\n'
         outtext += post_process_apa_ref(ref) + '\n'
 
-    path_out = Path(__file__).parent / "pubs-formatted.md"
+    path_out = Path(__file__).parent.parent / 'content/publications.md'
     path_out.write_text(outtext)
     print(f"Finished updating ORCID entries at: {path_out}")
 

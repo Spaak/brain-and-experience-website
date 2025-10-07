@@ -1,5 +1,5 @@
 ---
-title: "Brain & Experience Lab profile"
+title: "About our research"
 type: "page"
 ---
 

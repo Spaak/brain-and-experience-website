@@ -12,6 +12,10 @@ theme = 'gokarna'
     name = "Lab profile"
     url = "/lab-profile/"
 
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+
 [params]
   avatarURL = "/images/logo-faceonly.svg"
   customHeadHTML = '<link rel="stylesheet" href="/css/custom-styles.css">'
