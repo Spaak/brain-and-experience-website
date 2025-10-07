@@ -42,3 +42,21 @@ h1 {
 .post .post-content li, .markdown-content li {
   margin-bottom: 0.3em;
 }
+
+.pdflink {
+    font-size: 60%;
+    text-transform: uppercase;
+    font-weight: 400;
+    background: #900;
+    color: #fff;
+    text-decoration: none;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-left: 0.3em;
+    border: 1px solid #fff;
+}
+a.pdflink:hover {
+    border: 1px solid #900;
+    background: #fff;
+    color: #900;
+}
