@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 from pathlib import Path
 from rich import progress
-
+from scidownl import scihub_download
 import multiprocessing as mp
 
 
@@ -106,5 +106,18 @@ def generate_publication_list():
     print(f"Finished updating ORCID entries at: {path_out}")
 
 
+def fetch_pdf_for_doi(doi):
+    filename = doi.replace('/', '-')
+    path_out = Path(__file__).parent.parent / 'static/pdf' / filename
+    scihub_download(doi, out=str(path_out))
+
+
+def fetch_all_pdfs():
+    dois = fetch_dois_from_orcid()
+    with mp.Pool(4) as pool:
+        allrefs = pool.map(fetch_pdf_for_doi, dois['doi'])
+
+
 if __name__ == '__main__':
+    #fetch_all_pdfs()
     generate_publication_list()
