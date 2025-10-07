@@ -13,7 +13,7 @@ def fetch_apa_for_doi(doi):
     return r.content.decode('UTF-8')
 
 
-def post_process_apa_ref(ref):
+def post_process_apa_ref(ref, doi):
     strip_strings = ['<i>', '</i>', ' (Version 1)', ' (Version 2)', ' (Version 3)', ' (Version 4)',
                      ' CLOCKSS.', ' Portico.']
     replace_strings = {'ELife': 'eLife',
@@ -25,6 +25,7 @@ def post_process_apa_ref(ref):
     for k, v in replace_strings.items():
         ref = ref.replace(k, v)
 
+    ref += '<a class="pdflink" target="_blank" href="../pdf/' + doi.replace('/', '-') + '.pdf">Download PDF</a>\n\n'
     return ref
 
 
@@ -103,7 +104,7 @@ type: "page"
         if cur_year is None or row['year'] < cur_year:
             cur_year = row['year']
             outtext += '\n## ' + str(cur_year) + '\n\n'
-        outtext += post_process_apa_ref(ref) + '\n'
+        outtext += post_process_apa_ref(ref, row['doi']) + '\n'
 
     path_out = Path(__file__).parent.parent / 'content/publications.md'
     path_out.write_text(outtext)
