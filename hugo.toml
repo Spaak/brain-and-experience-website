@@ -7,9 +7,10 @@ theme = 'gokarna'
 unsafe = true
 
 [menu]
+
   [[menu.main]]
-    name = "News"
-    url = "/news/"
+    name = "Home"
+    url = "/"
 
   [[menu.main]]
     name = "Lab profile"
@@ -22,4 +23,4 @@ unsafe = true
 [params]
   avatarURL = "/images/logo-faceonly.svg"
   customHeadHTML = '<link rel="stylesheet" href="/css/custom-styles.css">'
-  accentColor = "#313f76" # dark blue from logo
+  accentColor = "#c94e4eff"

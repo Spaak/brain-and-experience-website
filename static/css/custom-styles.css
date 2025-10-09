@@ -18,8 +18,7 @@ html {
   }
 h1 {    
     font-size: 280%;
-    font-weight: 300;
-    color: var(--accent-color);
+    font-weight: 600;
 }
 .home-about h1 {
     font-weight: 300;
@@ -41,6 +40,22 @@ h1 {
 
 .post .post-content li, .markdown-content li {
   margin-bottom: 0.3em;
+}
+
+.header {
+    font-size: 150%;
+    height: 3em;
+}
+.header .header-nav {
+    height: 100%;
+}
+    .header-nav .avatar img {
+        width: 2em;
+        height: 2em;
+        margin-top: 0.5em;
+    }
+    .header .header-nav .nav-title, .header .header-nav .nav-links {
+        margin-top: 0.55em;
 }
 
 .pdflink {
