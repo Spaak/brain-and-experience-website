@@ -13,3 +13,5 @@ In 2018, Eelke was awarded an NWO Veni grant to study the often paradoxical rela
 In 2022, Eelke was appointed assistant professor at the Donders Institute and started his own research group. Current research focuses on information gathering during real-world visual gaze behaviour, its neural correlates, and the relationship to reward (NWO Starting Grant, 2023); the aforementioned role of (synaptic) connectivity patterns in working memory (NWO Science Open Competition M Grant, 2025); as well as methodological innovations such as Rapid Invisible Frequency Tagging (RIFT).
 
 Eelke contributes to university teaching at various levels and on various topics, including the scientific method, attention and prediction, and advanced electrophysiological analyses. In 2024, Eelke was appointed director of the research MSc programme in cognitive neuroscience (in parallel to his faculty and principal investigator position).
+
+Contact Eelke at [eelke.spaak@donders.ru.nl](mailto:eelke.spaak@donders.ru.nl).

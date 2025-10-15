@@ -10,6 +10,7 @@ type: "page"
     <h2>Eelke Spaak</h2>
     <p>Principal Investigator</p>
     <p>(<a href="/people/eelke-spaak">see detailed bio</a>)</p>
+    <p>Contact via: <a href="mailto:eelke.spaak@donders.ru.nl">eelke.spaak@donders.ru.nl</a>.</p>
 </li>
 
 <li>
