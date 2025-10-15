@@ -127,7 +127,7 @@ a.pdflink:hover {
     }
     .people-page .bio-profile-pic {
         float: none;
-        margin: 0 !important;
+        margin: 0 auto !important;
         margin-top: 2em !important;;
     }
     .people-page li h2 {
