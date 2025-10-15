@@ -1,0 +1,2 @@
+hugo build --cleanDestinationDir --minify
+rsync -chavzP --del -e "ssh -p 7685" ~/repos/brain-and-experience-website/public/ u60388p57124@brainandexperience.org:~/domains/brainandexperience.org/public_html/
