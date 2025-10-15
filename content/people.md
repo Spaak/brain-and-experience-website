@@ -36,4 +36,13 @@ type: "page"
     <p>MSc student</p>
 </li>
 
-</div>
+</ul>
+
+## Alumni
+
+<ul class="people-page-alumni">
+    <li>Floortje Bouwkamp (PhD)</li>
+    <li>Mariya Manahova (PhD)</li>
+    <li>Pius Kern (MSc)</li>
+    <li>Cas Rekoert (MSc)</li>
+</ul>
