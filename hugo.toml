@@ -26,5 +26,5 @@ unsafe = true
 
 [params]
   avatarURL = "/images/logo-faceonly.svg"
-  customHeadHTML = '<link rel="stylesheet" href="/css/custom-styles.css">'
+  customHeadHTML = '<link rel="stylesheet" href="/css/custom-styles.css"><script data-goatcounter="https://eelke.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
   accentColor = "#c94e4eff"
