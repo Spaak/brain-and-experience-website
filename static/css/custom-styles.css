@@ -108,6 +108,7 @@ a.pdflink:hover {
     margin-top: 0;
     padding-top: 0.5em;
     border-top: 1px solid #000;
+    clear: both;
 }
 
 @media screen and (max-width: 450px) {
