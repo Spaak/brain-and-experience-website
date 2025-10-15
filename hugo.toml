@@ -20,6 +20,10 @@ unsafe = true
     name = "Publications"
     url = "/publications/"
 
+  [[menu.main]]
+    name = "People"
+    url = "/people/"
+
 [params]
   avatarURL = "/images/logo-faceonly.svg"
   customHeadHTML = '<link rel="stylesheet" href="/css/custom-styles.css">'

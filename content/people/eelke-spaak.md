@@ -1,6 +1,7 @@
 ---
 title: "Eelke Spaak"
 type: "page"
+image: "images/eelke-spaak.png"
 ---
 
 <img src="/images/eelke-spaak.png" class="bio-profile-pic" alt="Eelke Spaak profile photo">Eelke Spaak (1985, Nijmegen, The Netherlands) is principal investigator of the Brain & Experience Lab. After his undergraduate studies in artificial intelligence (BSc) and philosophy (BA), he completed two research master's degrees in cognitive neuroscience (MSc, Radboud University) and philosophy (MSc, University of Edinburgh, funded by Huygens Talent Programme Grant). By then finally realizing what he wanted to do, he completed his PhD under the supervision of Prof. Ole Jensen at the Donders Institute, studying the role of alpha and gamma oscillations in structuring visual experience and local cortical processing.
