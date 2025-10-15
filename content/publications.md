@@ -5,8 +5,15 @@ type: "page"
 
 ## 2025
 
+**Spaak, E.** (2025). Regularization, Action, and Attractors in the Dynamical “Bayesian” Brain. Journal of Cognitive Neuroscience, 1–12. https://doi.org/10.1162/jocn.a.2390
+<a class="pdflink" target="_blank" href="../pdf/10.1162-jocn.a.2390.pdf">Download PDF</a>
+
+
 Bouwkamp, F. G., van Haren, J. J. G., de Lange, F. P., & **Spaak, E.** (2025). Dynamic competition between selective attention and spatial prediction during visual search. bioRxiv. https://doi.org/10.1101/2025.07.10.664103
 <a class="pdflink" target="_blank" href="../pdf/10.1101-2025.07.10.664103.pdf">Download PDF</a>
+
+
+Keitel, A., Keitel, C., Alavash, M., Bakardjian, K., Benwell, C. S. Y., Bouton, S., Busch, N. A., Criscuolo, A., Doelling, K. B., Dugue, L., Grabot, L., Gross, J., Hanslmayr, S., Klatt, L.-I., Kluger, D. S., Learmonth, G., London, R. E., Lubinus, C., Martin, A. E., … Kotz, S. A. (2025). Brain rhythms in cognition -- controversies and future directions. arXiv. https://doi.org/10.48550/ARXIV.2507.15639<a class="pdflink" target="_blank" href="../pdf/10.48550-ARXIV.2507.15639.pdf">Download PDF</a>
 
 
 **Spaak, E.**, & Wolff, M. J. (2025). Rapid connectivity modulations unify long-term and working memory. Trends in Cognitive Sciences, 29(5), 400–402. https://doi.org/10.1016/j.tics.2025.02.006
@@ -15,9 +22,6 @@ Bouwkamp, F. G., van Haren, J. J. G., de Lange, F. P., & **Spaak, E.** (2025). D
 
 Henney, M. A., **Spaak, E.**, Hansen, H. E., Carstensen, M., Madsen, K. H., & Oostenveld, R. (2025). Using magnetoencephalography to track the propagation of 40 Hz invisible spectral flicker. bioRxiv. https://doi.org/10.1101/2025.01.07.631693
 <a class="pdflink" target="_blank" href="../pdf/10.1101-2025.01.07.631693.pdf">Download PDF</a>
-
-
-Keitel, A., Keitel, C., Alavash, M., Bakardjian, K., Benwell, C. S. Y., Bouton, S., Busch, N. A., Criscuolo, A., Doelling, K. B., Dugue, L., Grabot, L., Gross, J., Hanslmayr, S., Klatt, L.-I., Kluger, D. S., Learmonth, G., London, R. E., Lubinus, C., Martin, A. E., … Kotz, S. A. (2025). Brain rhythms in cognition -- controversies and future directions. arXiv. https://doi.org/10.48550/ARXIV.2507.15639<a class="pdflink" target="_blank" href="../pdf/10.48550-ARXIV.2507.15639.pdf">Download PDF</a>
 
 
 
