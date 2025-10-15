@@ -76,3 +76,9 @@ a.pdflink:hover {
     background: #fff;
     color: #900;
 }
+
+.bio-profile-pic {
+    width: 10em;
+    float: left;
+    margin: 0.6em !important;
+}
