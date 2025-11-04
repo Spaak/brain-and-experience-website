@@ -5,6 +5,10 @@ type: "page"
 
 ## 2025
 
+Arora, K., Husta, C., Bouwkamp, F., Seijdel, N., Bai, S., Han, Q., Kenemans, L., van der Stigchel, S., Gayet, S., **Spaak, E.**, Chota, S., & Drijvers, L. (2025). A Collaborative Guide to Rapid Invisible Frequency Tagging (RIFT): Methods, Insights, and Recommendations. OSF Preprints. https://doi.org/10.31234/osf.io/edshx_v1
+<a class="pdflink" target="_blank" href="../pdf/10.31234-osf.io-edshx_v1.pdf">Download PDF</a>
+
+
 **Spaak, E.** (2025). Regularization, Action, and Attractors in the Dynamical “Bayesian” Brain. Journal of Cognitive Neuroscience, 1–12. https://doi.org/10.1162/jocn.a.2390
 <a class="pdflink" target="_blank" href="../pdf/10.1162-jocn.a.2390.pdf">Download PDF</a>
 

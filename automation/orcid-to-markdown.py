@@ -18,6 +18,7 @@ def post_process_apa_ref(ref, doi):
                      ' CLOCKSS.', ' Portico.']
     replace_strings = {'ELife': 'eLife',
                        'https://doi.org/10.1101/': 'bioRxiv. https://doi.org/10.1101/',
+                       'https://doi.org/10.31234/': 'OSF Preprints. https://doi.org/10.31234/',
                        'Spaak, E.': '**Spaak, E.**'}
 
     for s in strip_strings:
