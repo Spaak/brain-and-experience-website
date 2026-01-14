@@ -5,7 +5,7 @@ type: "page"
 
 ## 2025
 
-Arora, K., Husta, C., Bouwkamp, F., Seijdel, N., Bai, S., Han, Q., Kenemans, L., van der Stigchel, S., Gayet, S., **Spaak, E.**, Chota, S., & Drijvers, L. (2025). A Collaborative Guide to Rapid Invisible Frequency Tagging (RIFT): Methods, Insights, and Recommendations. OSF Preprints. https://doi.org/10.31234/osf.io/edshx_v1
+Arora, K., Husta, C., Bouwkamp, F., Seijdel, N., Bai, S., Han, Q., Kenemans, L., van der Stigchel, S., Gayet, S., **Spaak, E.**\*, Chota, S.\*, & Drijvers, L.\* (2025). (\*: equal contributions, shared senior authorship) A Collaborative Guide to Rapid Invisible Frequency Tagging (RIFT): Methods, Insights, and Recommendations. OSF Preprints. https://doi.org/10.31234/osf.io/edshx_v1
 <a class="pdflink" target="_blank" href="../pdf/10.31234-osf.io-edshx_v1.pdf">Download PDF</a>
 
 
