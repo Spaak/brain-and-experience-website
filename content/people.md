@@ -14,7 +14,7 @@ type: "page"
 </li>
 
 <li>
-    <img src="/images/pixel.png" class="bio-profile-pic" alt="Damian Koevoet profile photo">
+    <img src="/images/damian-koevoet.jpg" class="bio-profile-pic" alt="Damian Koevoet profile photo">
     <h2>Damian Koevoet</h2>
     <p>Postdoctoral researcher</p>
 </li>
