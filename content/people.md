@@ -14,9 +14,9 @@ type: "page"
 </li>
 
 <li>
-    <img src="/images/floortje-bouwkamp.jpg" class="bio-profile-pic" alt="Floortje Bouwkamp profile photo">
-    <h2>Floortje Bouwkamp</h2>
-    <p>Postdoctoral researcher (with Floris de Lange)</p>
+    <img src="/images/pixel.png" class="bio-profile-pic" alt="Damian Koevoet profile photo">
+    <h2>Damian Koevoet</h2>
+    <p>Postdoctoral researcher</p>
 </li>
 
 <li>
