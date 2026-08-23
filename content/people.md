@@ -8,7 +8,7 @@ type: "page"
 <li>
     <img src="/images/eelke-spaak.png" class="bio-profile-pic" alt="Eelke Spaak profile photo">
     <h2>Eelke Spaak</h2>
-    <p>Principal Investigator</p>
+    <p>Principal Investigator / Associate Professor</p>
     <p>(<a href="/people/eelke-spaak">see detailed bio</a>)</p>
     <p>Contact via: <a href="mailto:eelke.spaak@donders.ru.nl">eelke.spaak@donders.ru.nl</a>.</p>
 </li>
