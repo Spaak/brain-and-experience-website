@@ -1,5 +1,6 @@
 import pandas as pd
 import requests
+import os
 from pathlib import Path
 from rich import progress
 from scidownl import scihub_download
@@ -115,7 +116,9 @@ type: "page"
 def fetch_pdf_for_doi(doi):
     filename = doi.replace('/', '-')
     path_out = Path(__file__).parent.parent / 'static/pdf' / filename
-    scihub_download(doi, out=str(path_out))
+
+    if not os.path.exists(path_out):
+        scihub_download(doi, out=str(path_out))
 
 
 def fetch_all_pdfs():
