@@ -3,18 +3,25 @@ title: "Publications"
 type: "page"
 ---
 
+## 2026
+
+Bouwkamp, F. G., van Haren, J. J. G., de Lange, F. P., & **Spaak, E.** (2026). Dynamic competition between selective attention and spatial prediction during visual search. Journal of Experimental Psychology: Human Perception and Performance, 52(8), 985–999. https://doi.org/10.1037/xhp0001431
+<a class="pdflink" target="_blank" href="../pdf/10.1037-xhp0001431.pdf">Download PDF</a>
+
+
+Arora, K., Hustá, C., Bouwkamp, F., Seijdel, N., Bai, S., Han, Q., Kenemans, J. L., Van der Stigchel, S., Gayet, S., **Spaak, E.**, Chota, S., & Drijvers, L. (2026). A collaborative guide to Rapid Invisible Frequency Tagging (RIFT): Methods, insights, and recommendations. Imaging Neuroscience, 4. https://doi.org/10.1162/imag.a.1273
+<a class="pdflink" target="_blank" href="../pdf/10.1162-imag.a.1273.pdf">Download PDF</a>
+
+
+Bartsch, M. V., **Spaak, E.**, & de Lange, F. P. (2026). Colourful predictive templates in early visual cortex. bioRxiv. https://doi.org/10.64898/2026.06.11.731729
+<a class="pdflink" target="_blank" href="../pdf/10.64898-2026.06.11.731729.pdf">Download PDF</a>
+
+
+
 ## 2025
 
-Arora, K., Husta, C., Bouwkamp, F., Seijdel, N., Bai, S., Han, Q., Kenemans, L., van der Stigchel, S., Gayet, S., **Spaak, E.**\*, Chota, S.\*, & Drijvers, L.\* (2025). (\*: equal contributions, shared senior authorship) A Collaborative Guide to Rapid Invisible Frequency Tagging (RIFT): Methods, Insights, and Recommendations. OSF Preprints. https://doi.org/10.31234/osf.io/edshx_v1
-<a class="pdflink" target="_blank" href="../pdf/10.31234-osf.io-edshx_v1.pdf">Download PDF</a>
-
-
-**Spaak, E.** (2025). Regularization, Action, and Attractors in the Dynamical “Bayesian” Brain. Journal of Cognitive Neuroscience, 1–12. https://doi.org/10.1162/jocn.a.2390
+**Spaak, E.** (2026). Regularization, Action, and Attractors in the Dynamical “Bayesian” Brain. Journal of Cognitive Neuroscience, 38(3), 423–434. https://doi.org/10.1162/jocn.a.2390
 <a class="pdflink" target="_blank" href="../pdf/10.1162-jocn.a.2390.pdf">Download PDF</a>
-
-
-Bouwkamp, F. G., van Haren, J. J. G., de Lange, F. P., & **Spaak, E.** (2025). Dynamic competition between selective attention and spatial prediction during visual search. bioRxiv. https://doi.org/10.1101/2025.07.10.664103
-<a class="pdflink" target="_blank" href="../pdf/10.1101-2025.07.10.664103.pdf">Download PDF</a>
 
 
 Keitel, A., Keitel, C., Alavash, M., Bakardjian, K., Benwell, C. S. Y., Bouton, S., Busch, N. A., Criscuolo, A., Doelling, K. B., Dugue, L., Grabot, L., Gross, J., Hanslmayr, S., Klatt, L.-I., Kluger, D. S., Learmonth, G., London, R. E., Lubinus, C., Martin, A. E., … Kotz, S. A. (2025). Brain rhythms in cognition -- controversies and future directions. arXiv. https://doi.org/10.48550/ARXIV.2507.15639<a class="pdflink" target="_blank" href="../pdf/10.48550-ARXIV.2507.15639.pdf">Download PDF</a>
@@ -31,7 +38,7 @@ Henney, M. A., **Spaak, E.**, Hansen, H. E., Carstensen, M., Madsen, K. H., & Oo
 
 ## 2024
 
-Amme, C., Sulewski, P., **Spaak, E.**, Hebart, M. N., König, P., & Kietzmann, T. C. (2024). Saccade onset, not fixation onset, best explains early responses across the human visual cortex during naturalistic vision. bioRxiv. https://doi.org/10.1101/2024.10.25.620167
+Amme, C., Sulewski, P., **Spaak, E.**, Hebart, M. N., König, P., & Kietzmann, T. C. (2024). Neural responses during natural vision are action-timed rather than locked to the onset of stable foveal input. bioRxiv. https://doi.org/10.1101/2024.10.25.620167
 <a class="pdflink" target="_blank" href="../pdf/10.1101-2024.10.25.620167.pdf">Download PDF</a>
 
 
@@ -70,11 +77,11 @@ Pike, A. C., Atherton, K. E., Bauer, Y., Crittenden, B. M., van Ede, F., Hall-Mc
 <a class="pdflink" target="_blank" href="../pdf/10.1162-jocn_a_01928.pdf">Download PDF</a>
 
 
-van Es, M. W. J., Marshall, T. R., **Spaak, E.**, Jensen, O., & Schoffelen, J. (2021). Phasic modulation of visual representations during sustained attention. European Journal of Neuroscience, 55(11–12), 3191–3208. https://doi.org/10.1111/ejn.15084
+van Es, M. W. J., Marshall, T. R., **Spaak, E.**, Jensen, O., & Schoffelen, J.-M. (2021). Phasic modulation of visual representations during sustained attention. European Journal of Neuroscience, 55(11-12), 3191–3208. https://doi.org/10.1111/ejn.15084
 <a class="pdflink" target="_blank" href="../pdf/10.1111-ejn.15084.pdf">Download PDF</a>
 
 
-Barne, L. C., Cravo, A. M., de Lange, F. P., & **Spaak, E.** (2021). Temporal prediction elicits rhythmic preactivation of relevant sensory cortices. European Journal of Neuroscience, 55(11–12), 3324–3339. https://doi.org/10.1111/ejn.15405
+Barne, L. C., Cravo, A. M., de Lange, F. P., & **Spaak, E.** (2021). Temporal prediction elicits rhythmic preactivation of relevant sensory cortices. European Journal of Neuroscience, 55(11-12), 3324–3339. https://doi.org/10.1111/ejn.15405
 <a class="pdflink" target="_blank" href="../pdf/10.1111-ejn.15405.pdf">Download PDF</a>
 
 
@@ -139,7 +146,7 @@ Wasmuht, D. F., **Spaak, E.**, Buschman, T. J., Miller, E. K., & Stokes, M. G. (
 
 ## 2016
 
-Jensen, O., **Spaak, E.**, & Park, H. (2016). Discriminating Valid from Spurious Indices of Phase-Amplitude Coupling. Eneuro, 3(6), ENEURO.0334-16.2016. https://doi.org/10.1523/eneuro.0334-16.2016
+Jensen, O., **Spaak, E.**, & Park, H. (2016). Discriminating Valid from Spurious Indices of Phase-Amplitude Coupling. Eneuro, 3(6), ENEURO. https://doi.org/10.1523/eneuro.0334-16.2016
 <a class="pdflink" target="_blank" href="../pdf/10.1523-ENEURO.0334-16.2016.pdf">Download PDF</a>
 
 
@@ -172,7 +179,7 @@ Stokes, M. G., Wolff, M. J., & **Spaak, E.** (2015). Decoding Rich Spatial Infor
 <a class="pdflink" target="_blank" href="../pdf/10.1371-journal.pone.0045688.pdf">Download PDF</a>
 
 
-**Spaak, E.**, Bonnefond, M., Maier, A., Leopold, D. A., & Jensen, O. (2012). Layer-Specific Entrainment of Gamma-Band Neural Activity by the Alpha Rhythm in Monkey Visual Cortex. Current Biology, 22(24), 2313–2318. https://doi.org/10.1016/j.cub.2012.10.020
+**Spaak, E.**, Bonnefond, M., Maier, A., Leopold, David A., & Jensen, O. (2012). Layer-Specific Entrainment of Gamma-Band Neural Activity by the Alpha Rhythm in Monkey Visual Cortex. Current Biology, 22(24), 2313–2318. https://doi.org/10.1016/j.cub.2012.10.020
 <a class="pdflink" target="_blank" href="../pdf/10.1016-j.cub.2012.10.020.pdf">Download PDF</a>
 
 
