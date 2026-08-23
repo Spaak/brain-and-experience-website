@@ -19,6 +19,7 @@ def post_process_apa_ref(ref, doi):
                      ' CLOCKSS.', ' Portico.']
     replace_strings = {'ELife': 'eLife',
                        'https://doi.org/10.1101/': 'bioRxiv. https://doi.org/10.1101/',
+                       'https://doi.org/10.64898/': 'bioRxiv. https://doi.org/10.64898/',
                        'https://doi.org/10.31234/': 'OSF Preprints. https://doi.org/10.31234/',
                        'Spaak, E.': '**Spaak, E.**'}
 
@@ -78,8 +79,8 @@ def fetch_dois_from_orcid():
 def assign_doi_ranks(dois):
     prefdois = {}
     for doi in dois:
-        if doi.startswith('10.1101') or doi.startswith('10.48550'):
-            # biorxiv or arxiv
+        if doi.startswith('10.1101') or doi.startswith('10.64898') or doi.startswith('10.48550') or doi.startswith('10.31234'):
+            # biorxiv or biorxiv (other doi) or arxiv or OSF
             pref = 1 # higher pref means end up later in the list
         else:
             pref = 0
@@ -106,7 +107,10 @@ type: "page"
         if cur_year is None or row['year'] < cur_year:
             cur_year = row['year']
             outtext += '\n## ' + str(cur_year) + '\n\n'
-        outtext += post_process_apa_ref(ref, row['doi']) + '\n'
+        ref = post_process_apa_ref(ref, row['doi'])
+        while ref.startswith('<a class="pdflink"'): # if True then fetching APA failed
+            ref = post_process_apa_ref(fetch_apa_for_doi(row['doi']), row['doi'])
+        outtext += ref + '\n'
 
     path_out = Path(__file__).parent.parent / 'content/publications.md'
     path_out.write_text(outtext)
@@ -118,7 +122,7 @@ def fetch_pdf_for_doi(doi):
     path_out = Path(__file__).parent.parent / 'static/pdf' / filename
 
     if not os.path.exists(path_out):
-        scihub_download(doi, out=str(path_out))
+        scihub_download(doi, out=str(path_out), scihub_url='https://sci-hub.box')
 
 
 def fetch_all_pdfs():
